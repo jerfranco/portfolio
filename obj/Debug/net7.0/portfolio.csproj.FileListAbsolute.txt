@@ -1,0 +1,15 @@
+C:\Users\jerem\OneDrive\BYUI\Fall 2023\CSE 310\portfolio\obj\Debug\net7.0\portfolio.csproj.AssemblyReference.cache
+C:\Users\jerem\OneDrive\BYUI\Fall 2023\CSE 310\portfolio\obj\Debug\net7.0\portfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\OneDrive\BYUI\Fall 2023\CSE 310\portfolio\obj\Debug\net7.0\portfolio.AssemblyInfoInputs.cache
+C:\Users\jerem\OneDrive\BYUI\Fall 2023\CSE 310\portfolio\obj\Debug\net7.0\portfolio.AssemblyInfo.cs
+C:\Users\jerem\OneDrive\BYUI\Fall 2023\CSE 310\portfolio\obj\Debug\net7.0\portfolio.csproj.CoreCompileInputs.cache
+C:\Users\jerem\OneDrive\BYUI\Fall 2023\CSE 310\portfolio\bin\Debug\net7.0\portfolio.exe
+C:\Users\jerem\OneDrive\BYUI\Fall 2023\CSE 310\portfolio\bin\Debug\net7.0\portfolio.deps.json
+C:\Users\jerem\OneDrive\BYUI\Fall 2023\CSE 310\portfolio\bin\Debug\net7.0\portfolio.runtimeconfig.json
+C:\Users\jerem\OneDrive\BYUI\Fall 2023\CSE 310\portfolio\bin\Debug\net7.0\portfolio.dll
+C:\Users\jerem\OneDrive\BYUI\Fall 2023\CSE 310\portfolio\bin\Debug\net7.0\portfolio.pdb
+C:\Users\jerem\OneDrive\BYUI\Fall 2023\CSE 310\portfolio\obj\Debug\net7.0\portfolio.dll
+C:\Users\jerem\OneDrive\BYUI\Fall 2023\CSE 310\portfolio\obj\Debug\net7.0\refint\portfolio.dll
+C:\Users\jerem\OneDrive\BYUI\Fall 2023\CSE 310\portfolio\obj\Debug\net7.0\portfolio.pdb
+C:\Users\jerem\OneDrive\BYUI\Fall 2023\CSE 310\portfolio\obj\Debug\net7.0\portfolio.genruntimeconfig.cache
+C:\Users\jerem\OneDrive\BYUI\Fall 2023\CSE 310\portfolio\obj\Debug\net7.0\ref\portfolio.dll
