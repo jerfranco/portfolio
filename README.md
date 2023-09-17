@@ -16,7 +16,7 @@ Purpose: The purpose of this program is to show my skills in C#. C# is one of th
 
 Link to program demonstration:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://clipchamp.com/watch/oR64gVDcMm6)
 
 # Development Environment
 
